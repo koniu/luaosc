@@ -1,0 +1,52 @@
+8
+
+dir
+34
+svn://wrfl.de/k-gee/lua/luaosc-1.0.0/trunk_misc
+svn://wrfl.de/k-gee
+
+
+
+2009-01-13T13:47:33.251000Z
+32
+k-gee
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+bf43542f-cd95-4517-a97f-0a76f72b7b4e
+
+test.lua
+file
+
+
+
+
+2009-01-13T13:37:22.000000Z
+b9b539a35e9cec38d701afa48667676f
+2009-01-13T13:47:33.251000Z
+32
+k-gee
+
+osc_match.lua
+file
+
+
+
+
+2009-01-13T13:37:22.000000Z
+de932a814c7c9757eed626ea04eb840a
+2009-01-13T13:47:33.251000Z
+32
+k-gee
+

@@ -1,0 +1,16 @@
+WARNING:
+--------
+This module is still in development and can be considered beta.
+If you find any bugs please report them via luaforge.
+
+DEPENDENCIES:
+-------------
+luaosc depends on:
+	lpack ( install via luarocks or http://lua-users.org/wiki/LuaPack )
+	LuaSocket ( install via luarocks or http://www.tecgraf.puc-rio.br/~diego/professional/luasocket/ ) 
+
+INSTALLATION:
+-------------
+make install
+
+

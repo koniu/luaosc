@@ -1,0 +1,52 @@
+8
+
+dir
+34
+svn://wrfl.de/k-gee/lua/luaosc-1.0.0/src/osc
+svn://wrfl.de/k-gee
+
+
+
+2009-01-13T14:37:02.082161Z
+33
+k-gee
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+bf43542f-cd95-4517-a97f-0a76f72b7b4e
+
+server.lua
+file
+
+
+
+
+2009-01-13T13:37:20.000000Z
+78d597c7fedd7d650a5470ea5cd3243d
+2009-01-13T14:37:02.082161Z
+33
+k-gee
+
+client.lua
+file
+
+
+
+
+2009-01-13T13:37:21.000000Z
+cc2a03d7058a3899c85efc5d8e953ed0
+2009-01-13T14:37:02.082161Z
+33
+k-gee
+
