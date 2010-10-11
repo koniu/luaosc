@@ -30,6 +30,8 @@ module("osc.client")
 local meta_client = {
 	send = function (self, message)
 		self.socket:send(osc.encode(message))
+		local r = self.socket:receive()
+		if r then return osc.decode(r) end
 	end
 }
 
